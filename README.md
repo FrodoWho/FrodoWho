@@ -5,7 +5,7 @@
 ## About Me
 - 💼 Full-time full stack developer, passionate about creating meaningful applications.
 - 🌱 Always learning and exploring new technologies to improve my skills.
-- 🔧 Proficient in languages like Python, JavaScript and C#.
+- 🔧 Proficient in languages like Python and JavaScript.
 - 🌐 Experienced in web development with HTML, CSS, React, and Node.js.
 
 ## Fun Facts
