@@ -16,8 +16,8 @@
 - 🌍 Believes in the power of accessibility and hopes to make the web more accessible for every person.
 
 ## Let's Connect!
-- 📫 Reach out to me via email: [Your Email](mailto:ferdibilgic1999@gmail.com)
+- 📫 Reach out to me via email: [Your Email](mailto:ferdi@thecodingbear.dev)
 - 💼 Connect on LinkedIn: [Your LinkedIn](www.linkedin.com/in/ferdi-bilgic)
-- 🔗 Visit my portfolio: [Your Portfolio]()
+- 🔗 Visit my portfolio: [Your Portfolio](http://thecodingbear.dev)
 
 Feel free to explore my repositories and collaborate on interesting projects together! 🚀
