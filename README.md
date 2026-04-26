@@ -9,8 +9,7 @@
 - 🌐 Experienced in web development with HTML, CSS, React, and Node.js.
 
 ## Fun Facts
-- 📚 Enthusiastic reader and lifelong learner.
-- 🎸 Plays bass to unwind and relax.
+- 📚 Enthusiastic reader and lifelong learner of history and mythologies.
 - 🎥 Enjoys watching movies and play video games when time allows it.
 - 🌳 Enjoys forests and roaming around with them together with my partner.
 - 🌍 Believes in the power of accessibility and hopes to make the web more accessible for every person.
